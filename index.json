@@ -52,10 +52,10 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.4.34.apk",
+    "apk": "tachiyomi-all.batoto-v1.4.33.apk",
     "lang": "all",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -440,6 +440,14 @@
         "name": "Bato.to",
         "lang": "hr",
         "id": "7668596971407381245",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "en-US",
+        "id": "8062169055021595945",
         "baseUrl": "https://bato.to",
         "versionId": 1,
         "hasCloudflare": 1
@@ -9512,7 +9520,7 @@
         "name": "Flix Scans",
         "lang": "en",
         "id": "2602904659965278831",
-        "baseUrl": "https://flixscans.org",
+        "baseUrl": "https://flixscans.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
